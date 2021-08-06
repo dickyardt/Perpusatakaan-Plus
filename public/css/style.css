@@ -1,0 +1,20 @@
+.area {
+  border-top: 1px solid gainsboro;
+  border-bottom: 1px solid gainsboro;
+  display: block;
+  clear: both;
+  float: left;
+  width: 100%;
+}
+.kiri {
+  float: left;
+  padding-top: 20px;
+}
+.kanan {
+  float: right;
+  margin-top: 10px;
+}
+.area2 {
+  margin: 10px;
+  width: 100%;
+}
